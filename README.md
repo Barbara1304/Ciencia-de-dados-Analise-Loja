@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Imagens/minhacapa.jpg" alt="Capa de apresentação do Relatório de Análise de Desempenho de Lojas" width="600"/>
+  <img src="imagens/minhacapa.jpg" alt="Capa de apresentação do Relatório de Análise de Desempenho de Lojas" width="600"/>
 </p>
 
 # Análise de Lojas – Relatório para Decisão Estratégica

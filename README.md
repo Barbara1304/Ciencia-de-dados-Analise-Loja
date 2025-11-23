@@ -1,5 +1,7 @@
 
-![data-analysis-colorful-vector-illustration_104589-1706](https://github.com/user-attachments/assets/add6b164-bfb8-4962-800a-0c0196a34748)
+<p align="center">
+  <img src="imagens/minhacapa.jpg" alt="Capa de apresentação do Relatório de Análise de Desempenho de Lojas" width="600"/>
+</p>
 
 # Análise de Lojas – Relatório para Decisão Estratégica
 

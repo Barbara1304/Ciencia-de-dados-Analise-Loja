@@ -1,6 +1,5 @@
-[README (1).md](https://github.com/user-attachments/files/23692395/README.1.md)
-![deng-xiang--WXQm_NTK0U-unsplash](https://github.com/user-attachments/assets/c1865900-af8f-438b-9134-289082ce5e60)
 
+![data-analysis-colorful-vector-illustration_104589-1706](https://github.com/user-attachments/assets/add6b164-bfb8-4962-800a-0c0196a34748)
 
 # Análise de Lojas – Relatório para Decisão Estratégica
 
